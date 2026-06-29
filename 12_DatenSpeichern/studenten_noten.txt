@@ -1,0 +1,4 @@
+Max,Mustermann,45,85
+John,Doe,80,90
+Fatih,Deniz,85,95
+Yvonne,Müller,15,25

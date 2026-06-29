@@ -1,0 +1,4 @@
+Max Mustermann       | Erste Note: 45  | Zweite Note: 85  | Durchschnitt: 69.00 | Note: D  | Ergebnis: Bestanden
+John Doe             | Erste Note: 80  | Zweite Note: 90  | Durchschnitt: 86.00 | Note: B  | Ergebnis: Bestanden
+Fatih Deniz          | Erste Note: 85  | Zweite Note: 95  | Durchschnitt: 91.00 | Note: A  | Ergebnis: Bestanden
+Yvonne Müller        | Erste Note: 15  | Zweite Note: 25  | Durchschnitt: 21.00 | Note: F  | Ergebnis: Nicht Bestanden

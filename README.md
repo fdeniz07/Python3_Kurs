@@ -32,3 +32,38 @@
 * Reguläre Ausdrücke: Muster und Anwendung
 * Variablen und Zuweisungen
 * Debugging und Fehlersuche
+* List Comprehensions und Generatoren
+* Virtuelle Umgebungen mit venv
+* Paketverwaltung mit pip
+* Arbeiten mit Dateien und Ordnern
+* Unit-Tests mit unittest
+
+## Zielgruppe
+
+Anfänger- und Fortgeschrittenenniveau
+
+## Voraussetzungen
+
+Python 3.13
+
+VS Code
+
+Jupyter
+
+---
+
+## Installation
+
+...
+
+---
+
+## Lizenz
+
+MIT
+
+---
+
+## Mitwirken
+
+Contributions welcome.

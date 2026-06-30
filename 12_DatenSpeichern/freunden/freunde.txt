@@ -1,0 +1,8 @@
+[
+    "Anna",
+    "Bernd",
+    "Clara",
+    "David",
+    "Elena",
+    "Felix"
+]

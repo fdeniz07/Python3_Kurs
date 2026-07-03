@@ -1,0 +1,3 @@
+Hallo! "Willkommen" bei Python.
+Das ist ein Backslash: \ ---- ein Emoji: 😀.
+Hier ist ein Zeichen aus China: 馬.

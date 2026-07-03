@@ -1,0 +1,3 @@
+Produkt,Preis,MwSt
+Milch,1.29,1.54
+Brot,2.49,2.96

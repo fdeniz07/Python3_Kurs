@@ -1,0 +1,4 @@
+Willkommen in der Welt der Python-Programmierung!
+Dies ist eine beispielhafte Textdatei.
+Hier kannst du Informationen speichern und mit Python verarbeiten.
+Viel Erfolg bei deinen Projekten!

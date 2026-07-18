@@ -50,6 +50,31 @@
 - Unit-Tests mit `unittest`
 - Professionelle Software-Entwicklung
 
+### Architektur, Security & Production
+
+- Architektur-Patterns: N-Tier, Onion, Clean Architecture, CQRS
+- Security Patterns: Global Exception Handling, JWT/Refresh Token, Security Reviews
+- DDD, TDD, EDD und Design Patterns
+- Production-Ready Python (Observability, Resilienz, Deployment, Incident-Prozesse)
+- Advanced Testing Patterns (Property-Based, Contract, Mutation Testing)
+
+## Kapitel-Stand (aktuell)
+
+- 31: Testing und Qualitaetssicherung
+- 32: Architektur und Security Patterns
+- 33: DDD, TDD, EDD und Design Patterns
+- 34: Production-Ready Python
+- 35: Advanced Testing Patterns
+- 36: Security Engineering in Python
+
+## Didaktisches Prinzip
+
+- Die Anzahl der Notebooks pro Kapitel ist bewusst variabel.
+- Prioritaet hat inhaltliche Tiefe statt fester Dateianzahl.
+- Jedes Notebook soll vollstaendig, technisch praezise und praxisnah sein.
+- Wichtige Fachbegriffe, typische Fehlerbilder, Uebungen und Loesungswege werden systematisch integriert.
+- Der Vertiefungsstandard wurde konsistent fuer Kapitel 19 bis 36 vereinheitlicht.
+
 ### Sonstige wichtige Themen
 
 - Module importieren und nutzen

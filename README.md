@@ -1,6 +1,6 @@
 # Python3_Kurs
 
-![Python3_Kurs Banner](assets/images/python3_kurs_banner.svg)
+![Python3_Kurs Banner](assets/images/python3_kurs_banner.png)
 
 ![Version](https://img.shields.io/badge/version-v1.0.24-blue?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Notebooks](https://img.shields.io/badge/Notebooks-212-informational?style=for-the-badge) ![Kapitel](https://img.shields.io/badge/Kapitel-36-success?style=for-the-badge) ![Sprache](https://img.shields.io/badge/Sprache-Deutsch-red?style=for-the-badge) ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 

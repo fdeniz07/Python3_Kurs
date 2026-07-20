@@ -185,7 +185,6 @@ Python3_Kurs/
 |- README.md
 |- ROADMAP.md
 |- CHANGELOG.md
-|- AGENTS.md
 ```
 
 ---

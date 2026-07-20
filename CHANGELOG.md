@@ -7,6 +7,7 @@
 - [README.md](README.md) vollstaendig neu strukturiert und professionell aufbereitet (Badges, Inhaltsverzeichnis, Lernarchitektur, Kapitelmatrix, Tabellen und Mermaid-Diagramm).
 - Neue Kapitel 32 bis 36 im README explizit hervorgehoben und als Professional-Track mit Schwerpunkten dokumentiert.
 - README um Kennzahlen (36 Kapitel, 212 Notebooks), Schnellstart, Lernpfade und konsistente Mitwirkungsrichtlinien erweitert.
+- Neues README-Banner als SVG erstellt und eingebunden: [assets/images/python3_kurs_banner.svg](assets/images/python3_kurs_banner.svg).
 
 ## v1.0.24 - 2026-07-16
 

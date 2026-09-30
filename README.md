@@ -144,6 +144,15 @@ Das Repository folgt einer festen Lernphilosophie:
 
 Jede Einheit ist so aufgebaut, dass sie sowohl einzeln nutzbar als auch in der Gesamtprogression logisch anschlussfaehig ist.
 
+### Lernziele
+
+Nach Abschluss des Kurses sollen Lernende in der Lage sein:
+
+- Python sicher und strukturiert einzusetzen
+- professionelle Softwareentwicklungspraktiken anzuwenden
+- Tests und Qualitätssicherung umzusetzen
+- moderne Architektur- und Security-Konzepte zu verstehen
+
 ---
 
 ## Schnellstart
